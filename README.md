@@ -20,8 +20,6 @@ Twitch の過去配信（VOD）を自動取得してローカル保存する Pyt
 
 ---
 
-## インストール例（Ubuntu/Debian）
+## Pythonコードはこちらから
 
-```bash
-sudo apt install ffmpeg
-pip install yt-dlp requests
+`https://github.com/gonzaresu-jp/twitch-downloader/releases/tag/Twitch`
