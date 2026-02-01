@@ -22,4 +22,8 @@ Twitch の過去配信（VOD）を自動取得してローカル保存する Pyt
 
 ## Pythonコードはこちらから
 
-`https://github.com/gonzaresu-jp/twitch-downloader/releases/tag/Twitch`
+https://github.com/gonzaresu-jp/twitch-downloader/releases/tag/Twitch
+
+## Twitch APIの取得先
+
+https://dev.twitch.tv/console/
